@@ -1,4 +1,4 @@
-Данные проекты были выполнены в ходе обучения в Яндекс.Практикуме, курс "Специалист по Data Science".
+These projects were completed during the boostcamp at Yandex.Practice, "Specialist in Data Science".
 
 | Project name | Description | Libraries | 
 | :---------------------- | :---------------------- | :---------------------- |
