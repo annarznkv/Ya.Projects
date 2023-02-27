@@ -12,4 +12,4 @@
 
 
 ## Используемые библиотеки
-*pandas, numpe, sklearn, matplotlib*
+*pandas, numpy, sklearn, matplotlib*
