@@ -1,7 +1,7 @@
 These projects were completed during the boostcamp at Yandex.Practice, "Specialist in Data Science".
 
-| Project name | Description | Libraries | 
-| :---------------------- | :---------------------- | :---------------------- |
+| Project name | Description | Libraries | Link |
+| :---------------------- | :---------------------- | :---------------------- | :---------------------- |
 | Telecom customers churn |  For the telecom operator, identified clients prone to churn | *pandas, matplotlib, sklearn, catboost* |
 | Factors for sales planning |  To plan the sales of an online store, identified the patterns that determine the success of games, formulated recommendations | *pandas, numpy, matplotlib, stats, math* |
 | Choice of location for the well |  For an oil producing company, selected the most profitable region for a well drilling | *pandas, numpy, sklearn, matplotlib* |
